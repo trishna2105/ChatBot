@@ -28,7 +28,7 @@ The following tech stack was used to build this project:
 ## **Ouput genrerated from the project**:
 
 ![image](https://github.com/user-attachments/assets/9cf29d28-7ecc-450c-b4ac-ac0e800a387c)
-<img src="C:\Users\trish\OneDrive\Desktop\genaiwhatsapp.jpeg" width="150" height="150" border="10"/>
+
 
 
 
