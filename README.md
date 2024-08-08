@@ -29,6 +29,10 @@ The following tech stack was used to build this project:
 
 ![image](https://github.com/user-attachments/assets/9cf29d28-7ecc-450c-b4ac-ac0e800a387c)
 
+## Live Demo
+You can check out the live demo of the project here: [Live Demo](https://trishnagenai1.ccbp.tech/)
+
+
 
 
 
