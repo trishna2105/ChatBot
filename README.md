@@ -5,7 +5,7 @@
 This project is an application of Generative AI, it is an interactive chatbot who can answer questions and engage in casual conversations.
 The following tech stack was used to build this project:
 
-## **Nutz and Bolts for Generative AI Applications**
+## **Nutz and Bolts for Generative AI Application**
 
 * **Google Colab:** It is a cloud-based platform by Google designed for running and sharing Jupyter notebooks.
    
